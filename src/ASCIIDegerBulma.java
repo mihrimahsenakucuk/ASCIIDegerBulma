@@ -1,4 +1,4 @@
-public class AsciiDegerBulma {
+public class ASCIIDegerBulma {
 
     public static void main(String[] String) {
 
